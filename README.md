@@ -8,4 +8,4 @@
 yongwu1010/yongwu1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-HI, I'm yongwu1010, a total starter in IT,not even to say Deno.But I'm very interested in Deno/JAVA SCRIPI and such things. Currently I am working as risk manager in financial industry. When I was young, i was very good at mathmatics and i think i am good at logic thinking. i want to join some team in which i can be of some kind of help,and through i can get to know you execllent IT guys and learen from you.
+HI, I'm yongwu1010, a total starter in IT, not even to say Dedo. But I'm very interested in Deno/JAVA SCRIPI and such things. Currently I am working as risk manager in financial industry. When I was young, i was very good at mathematics and i think i am good at logic thinking. i want to join some team in which i can be of some kind of help, and through i can get to know you exceclent IT guys and learn from you.I   have plenty of practical project management experiences in IT products in debit card /prepaid card/online banking. 
